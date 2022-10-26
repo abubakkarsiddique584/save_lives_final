@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383406465010",
+    "project_id": "savelives-8c2fb",
+    "storage_bucket": "savelives-8c2fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383406465010:android:42588534a7096afb76556b",
+        "android_client_info": {
+          "package_name": "com.example.save_lives_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383406465010-na6gb010o4ujtkc9nrbcght5rbqfvra3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPZ6MgkUeBxgyTrW4l-67SmpBNeBY4_zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383406465010-na6gb010o4ujtkc9nrbcght5rbqfvra3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
